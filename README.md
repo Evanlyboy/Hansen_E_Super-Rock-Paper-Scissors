@@ -1,10 +1,10 @@
 <img src="rps.jpg">
 
-## Rock Paper Scissors - Python text-based version of the universal hand gesture game!
+<h1> Rock Paper Scissors - Python text-based version of the universal hand gesture game! </h1>
 
 Pick your weapon and play against the computer - you'll only get a virtual sting if you lose!
 
-### Prerequisites
+### Requirements
 
 All you need is <a href="https://www.python.org/downloads/" rel="nofollow">Python 3</a> to play.
 
@@ -29,7 +29,8 @@ Choose your weapon wisely!
 
 Built with <a href="https://www.python.org/doc/" rel="nofollow">Python 3</a>
 
-Enjoy!
+made with love <3
 
 ### License 
-MIT
+Made by: Evan Hansen
+LL Cool J 2021
