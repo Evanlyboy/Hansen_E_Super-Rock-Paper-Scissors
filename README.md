@@ -1,28 +1,24 @@
-![rps game](rps.jpg "RPS Game")
+## Rock Paper Scissors - Python text-based take on a classic!
 
-# Rock Paper Scissors Game with Python!
+Pick your weapon and play against the computer - you'll only get a virtual sting if you lose!
 
-TODO: Write a project description
+### Prerequisites
 
-## Installation
+All you need is Python 3 to play.
 
-TODO: Describe the installation process
+### Usage
+Clone the project, <code>cd</code> to your directory/download, and run the game.py file in a Python 3 shell (Terminal on a mac / Linux, Windows command prompt).
 
+### Rules
+Same as the classic game:
 
-## Contributing
+Paper covers Rock  Scissors cuts Paper  Rock smashes Scissors
 
-1. Fork it!
-2. Create your feature branch: `git checkout -b my-new-feature`
-3. Commit your changes: `git commit -am 'Add some feature'`
-4. Push to the branch: `git push origin my-new-feature`
-5. Submit a pull request :D
+Choose your weapon wisely!
 
+Built with Python 3
 
-## Credits
+Enjoy!
 
-TODO: Write credits
-// give accreditation to any resources / authors whose work you're using
-
-## License
-
+### License 
 MIT

@@ -31,3 +31,4 @@ def winner():
 		else:
 			print("you win!")
 			gameVars.CPULives = gameVars.CPULives - 1
+			
