@@ -1,6 +1,6 @@
 <img src="rps.jpg">
 
-## Rock Paper Scissors - Python text-based take on a classic!
+## Rock Paper Scissors - Python text-based version of the universal hand gesture game!
 
 Pick your weapon and play against the computer - you'll only get a virtual sting if you lose!
 
@@ -9,7 +9,7 @@ Pick your weapon and play against the computer - you'll only get a virtual sting
 All you need is <a href="https://www.python.org/downloads/" rel="nofollow">Python 3</a> to play.
 
 ### Usage
-Clone the project, <code>cd</code> to your directory/download, and run the game.py file in a Python 3 shell (Terminal on a mac / Linux, Windows command prompt).
+Clone the project, <code>cd</code> to your directory/download, and run the main.py file in a Python 3 shell (Terminal on a mac / Linux, Windows command prompt).
 
 ### Rules
 Same as the classic game:
@@ -23,6 +23,7 @@ Same as the classic game:
 <li>
 	Rock smashes Scissors
 </li>
+
 
 Choose your weapon wisely!
 
