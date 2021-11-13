@@ -14,11 +14,11 @@ Clone the project, <code>cd</code> to your directory/download, and run the game.
 ### Rules
 Same as the classic game:
 
-<ul>
+<li>
 	Paper covers Rock
 	Scissors cuts Paper
 	Rock smashes Scissors
-</ul>
+</li>
 
 Choose your weapon wisely!
 
