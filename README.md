@@ -16,7 +16,11 @@ Same as the classic game:
 
 <li>
 	Paper covers Rock
+</li>
+<li>
 	Scissors cuts Paper
+</li>
+<li>
 	Rock smashes Scissors
 </li>
 
